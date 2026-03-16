@@ -2,7 +2,7 @@
 
 ## Short public post
 
-ENGRAM + Haiku scored **81/100 (81.00%)** on the Letta Filesystem benchmark dataset, **using a custom harness with equivalent tool interfaces**.
+ENGRAMAI + Haiku scored **81/100 (81.00%)** on the Letta Filesystem benchmark dataset, **using a custom harness with equivalent tool interfaces**.
 
 Important disclosure:
 - This run used a **custom ENGRAM harness + custom tool wrappers** (`open_file`, `grep_file` equivalents),
@@ -21,16 +21,16 @@ Interpretation: retrieval architecture is working; misses are concentrated in ar
 - GPT-5.2 xhigh: **82.61%**
 - GPT-5.2 high: **80.5%**
 
-ENGRAM + Haiku custom-harness result: **81.00%** (same dataset, non-native framework).
+ENGRAMAI + Haiku custom-harness result: **81.00%** (same dataset, non-native framework).
 
 ### Core Memory disclosure
 Core Memory Read and Core Memory Update results here are benchmark runs from the Letta evaluation suite datasets through ENGRAM’s custom harness. Published leaderboard scores for these exact variants may not yet exist.
 
 ## Evidence links
 - https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/README.md
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/core-memory-read-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/core-memory-update-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/filesystem-zed-81of100-proof.jsonl
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-core-memory-read-results.json
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-core-memory-update-results.json
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-filesystem-zed-81of100-proof.jsonl
 
 ## Citations
 - https://leaderboard.letta.com/

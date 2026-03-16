@@ -21,6 +21,6 @@ Run the same harness with a stronger arithmetic model and keep retrieval stack c
 
 ## Evidence links
 - https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/README.md
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/core-memory-read-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/core-memory-update-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/filesystem-zed-81of100-proof.jsonl
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-core-memory-read-results.json
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-core-memory-update-results.json
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-filesystem-zed-81of100-proof.jsonl

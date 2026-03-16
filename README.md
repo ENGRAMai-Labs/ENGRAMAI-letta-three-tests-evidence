@@ -31,7 +31,7 @@ All misses are numeric outputs (currency, counts, record numbers) with `UNKNOWN`
 - Benchmark setup mirrors Letta Filesystem benchmark dataset through ENGRAM custom harness over synthetic data files.
 - Tooling pattern: file retrieval via `open_file`/`grep_file` style operations.
 - Answer model: Claude Haiku 4.5.
-- Scoring: row-level `correct` flags in `filesystem-zed-81of100-proof.jsonl` (no regrading).
+- Scoring: row-level `correct` flags in `ENGRAMAI-filesystem-zed-81of100-proof.jsonl` (no regrading).
 
 ## Leaderboard context
 - Filesystem native-framework leaderboard comparator at drafting time: **Opus 4.6 at 83.43%**, **GPT-5.2 xhigh at 82.61%**, **GPT-5.2 high at 80.5%**.
@@ -39,13 +39,13 @@ All misses are numeric outputs (currency, counts, record numbers) with `UNKNOWN`
 - Core Memory note: this report includes internal benchmark artifacts; public leaderboard baselines for these exact core-memory variants may differ or be unpublished.
 
 ## Public framing
-ENGRAM + Haiku achieved 100% on entity retrieval/relationship reasoning in Filesystem (81/81).
+ENGRAMAI + Haiku achieved 100% on entity retrieval/relationship reasoning in Filesystem (81/81).
 The 19 misses are exclusively numeric computation, indicating a model arithmetic limitation rather than an architecture retrieval limitation.
 
 ## Artifact files in this folder
-- `core-memory-read-results.json`
-- `core-memory-update-results.json`
-- `filesystem-zed-81of100-proof.jsonl`
+- `ENGRAMAI-core-memory-read-results.json`
+- `ENGRAMAI-core-memory-update-results.json`
+- `ENGRAMAI-filesystem-zed-81of100-proof.jsonl`
 
 ## Public citations
 - https://leaderboard.letta.com/
