@@ -20,7 +20,7 @@ ENGRAM+Haiku at 81% sits close while using a weaker arithmetic model profile.
 Run the same harness with a stronger arithmetic model and keep retrieval stack constant. If the miss pattern holds, Filesystem should move materially upward.
 
 ## Evidence links
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/README.md
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-core-memory-read-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-core-memory-update-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-filesystem-zed-81of100-proof.jsonl
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/README.md
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-ENGRAMAI-core-memory-read-results.json
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-ENGRAMAI-core-memory-update-results.json
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-ENGRAMAI-filesystem-zed-81of100-proof.jsonl

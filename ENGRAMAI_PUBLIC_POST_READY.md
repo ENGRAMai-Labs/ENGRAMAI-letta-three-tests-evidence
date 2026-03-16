@@ -27,10 +27,10 @@ ENGRAMAI + Haiku custom-harness result: **81.00%** (same dataset, non-native fra
 Core Memory Read and Core Memory Update results here are benchmark runs from the Letta evaluation suite datasets through ENGRAM’s custom harness. Published leaderboard scores for these exact variants may not yet exist.
 
 ## Evidence links
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/README.md
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-core-memory-read-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-core-memory-update-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-filesystem-zed-81of100-proof.jsonl
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/README.md
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-ENGRAMAI-core-memory-read-results.json
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-ENGRAMAI-core-memory-update-results.json
+- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-ENGRAMAI-filesystem-zed-81of100-proof.jsonl
 
 ## Citations
 - https://leaderboard.letta.com/
