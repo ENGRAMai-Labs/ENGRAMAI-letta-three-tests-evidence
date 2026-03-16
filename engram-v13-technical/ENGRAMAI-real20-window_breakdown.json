@@ -1,0 +1,542 @@
+{
+  "0": {
+    "modern_rag": {
+      "correct": 93,
+      "total": 200,
+      "cost": 0.24124799999999993
+    },
+    "rag": {
+      "correct": 117,
+      "total": 200,
+      "cost": 0.3409430000000001
+    },
+    "vector": {
+      "correct": 132,
+      "total": 200,
+      "cost": 0.38142400000000054
+    },
+    "naive": {
+      "correct": 110,
+      "total": 200,
+      "cost": 0.548291
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "1": {
+    "modern_rag": {
+      "correct": 88,
+      "total": 200,
+      "cost": 0.24093899999999985
+    },
+    "rag": {
+      "correct": 120,
+      "total": 200,
+      "cost": 0.3387109999999999
+    },
+    "vector": {
+      "correct": 128,
+      "total": 200,
+      "cost": 0.3833040000000001
+    },
+    "naive": {
+      "correct": 106,
+      "total": 200,
+      "cost": 0.5366780000000002
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "2": {
+    "modern_rag": {
+      "correct": 99,
+      "total": 200,
+      "cost": 0.245466
+    },
+    "rag": {
+      "correct": 129,
+      "total": 200,
+      "cost": 0.3475740000000001
+    },
+    "vector": {
+      "correct": 138,
+      "total": 200,
+      "cost": 0.3866510000000001
+    },
+    "naive": {
+      "correct": 104,
+      "total": 200,
+      "cost": 0.5466400000000003
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "3": {
+    "modern_rag": {
+      "correct": 100,
+      "total": 200,
+      "cost": 0.244346
+    },
+    "rag": {
+      "correct": 134,
+      "total": 200,
+      "cost": 0.34369500000000003
+    },
+    "vector": {
+      "correct": 131,
+      "total": 200,
+      "cost": 0.3823039999999999
+    },
+    "naive": {
+      "correct": 127,
+      "total": 200,
+      "cost": 0.554874
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "4": {
+    "modern_rag": {
+      "correct": 94,
+      "total": 200,
+      "cost": 0.24142100000000005
+    },
+    "rag": {
+      "correct": 129,
+      "total": 200,
+      "cost": 0.34037800000000007
+    },
+    "vector": {
+      "correct": 129,
+      "total": 200,
+      "cost": 0.3794099999999999
+    },
+    "naive": {
+      "correct": 114,
+      "total": 200,
+      "cost": 0.5320560000000003
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "5": {
+    "modern_rag": {
+      "correct": 92,
+      "total": 200,
+      "cost": 0.244153
+    },
+    "rag": {
+      "correct": 124,
+      "total": 200,
+      "cost": 0.3426859999999999
+    },
+    "vector": {
+      "correct": 133,
+      "total": 200,
+      "cost": 0.3840699999999997
+    },
+    "naive": {
+      "correct": 110,
+      "total": 200,
+      "cost": 0.5371819999999999
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "6": {
+    "modern_rag": {
+      "correct": 89,
+      "total": 200,
+      "cost": 0.24072199999999994
+    },
+    "rag": {
+      "correct": 130,
+      "total": 200,
+      "cost": 0.3359950000000001
+    },
+    "vector": {
+      "correct": 122,
+      "total": 200,
+      "cost": 0.38030199999999975
+    },
+    "naive": {
+      "correct": 102,
+      "total": 200,
+      "cost": 0.5451269999999998
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "7": {
+    "modern_rag": {
+      "correct": 90,
+      "total": 200,
+      "cost": 0.24391399999999994
+    },
+    "rag": {
+      "correct": 124,
+      "total": 200,
+      "cost": 0.3450400000000001
+    },
+    "vector": {
+      "correct": 129,
+      "total": 200,
+      "cost": 0.3826479999999998
+    },
+    "naive": {
+      "correct": 107,
+      "total": 200,
+      "cost": 0.5497799999999999
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "8": {
+    "modern_rag": {
+      "correct": 90,
+      "total": 200,
+      "cost": 0.23975700000000005
+    },
+    "rag": {
+      "correct": 138,
+      "total": 200,
+      "cost": 0.34053800000000006
+    },
+    "vector": {
+      "correct": 129,
+      "total": 200,
+      "cost": 0.3811120000000002
+    },
+    "naive": {
+      "correct": 115,
+      "total": 200,
+      "cost": 0.543627
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "9": {
+    "modern_rag": {
+      "correct": 93,
+      "total": 200,
+      "cost": 0.23889600000000002
+    },
+    "rag": {
+      "correct": 130,
+      "total": 200,
+      "cost": 0.33965900000000004
+    },
+    "vector": {
+      "correct": 137,
+      "total": 200,
+      "cost": 0.38413799999999976
+    },
+    "naive": {
+      "correct": 102,
+      "total": 200,
+      "cost": 0.549877
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "10": {
+    "modern_rag": {
+      "correct": 105,
+      "total": 200,
+      "cost": 0.2409449999999999
+    },
+    "rag": {
+      "correct": 152,
+      "total": 200,
+      "cost": 0.34012699999999996
+    },
+    "vector": {
+      "correct": 140,
+      "total": 200,
+      "cost": 0.380376
+    },
+    "naive": {
+      "correct": 132,
+      "total": 200,
+      "cost": 0.5327079999999998
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "11": {
+    "modern_rag": {
+      "correct": 91,
+      "total": 200,
+      "cost": 0.245516
+    },
+    "rag": {
+      "correct": 133,
+      "total": 200,
+      "cost": 0.34288799999999975
+    },
+    "vector": {
+      "correct": 131,
+      "total": 200,
+      "cost": 0.3822570000000002
+    },
+    "naive": {
+      "correct": 118,
+      "total": 200,
+      "cost": 0.5475770000000003
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "12": {
+    "modern_rag": {
+      "correct": 91,
+      "total": 200,
+      "cost": 0.23968000000000012
+    },
+    "rag": {
+      "correct": 124,
+      "total": 200,
+      "cost": 0.33701500000000006
+    },
+    "vector": {
+      "correct": 126,
+      "total": 200,
+      "cost": 0.3818370000000001
+    },
+    "naive": {
+      "correct": 105,
+      "total": 200,
+      "cost": 0.5413959999999995
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "13": {
+    "modern_rag": {
+      "correct": 97,
+      "total": 200,
+      "cost": 0.24133300000000008
+    },
+    "rag": {
+      "correct": 133,
+      "total": 200,
+      "cost": 0.3390299999999997
+    },
+    "vector": {
+      "correct": 128,
+      "total": 200,
+      "cost": 0.3794830000000003
+    },
+    "naive": {
+      "correct": 109,
+      "total": 200,
+      "cost": 0.5459979999999999
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "14": {
+    "modern_rag": {
+      "correct": 98,
+      "total": 200,
+      "cost": 0.239413
+    },
+    "rag": {
+      "correct": 133,
+      "total": 200,
+      "cost": 0.34191000000000016
+    },
+    "vector": {
+      "correct": 132,
+      "total": 200,
+      "cost": 0.382111
+    },
+    "naive": {
+      "correct": 109,
+      "total": 200,
+      "cost": 0.5418020000000001
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "15": {
+    "modern_rag": {
+      "correct": 90,
+      "total": 200,
+      "cost": 0.2386119999999999
+    },
+    "rag": {
+      "correct": 127,
+      "total": 200,
+      "cost": 0.33858799999999994
+    },
+    "vector": {
+      "correct": 123,
+      "total": 200,
+      "cost": 0.3795069999999999
+    },
+    "naive": {
+      "correct": 95,
+      "total": 200,
+      "cost": 0.5351049999999997
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "16": {
+    "modern_rag": {
+      "correct": 94,
+      "total": 200,
+      "cost": 0.24194400000000002
+    },
+    "rag": {
+      "correct": 138,
+      "total": 200,
+      "cost": 0.3464790000000002
+    },
+    "vector": {
+      "correct": 127,
+      "total": 200,
+      "cost": 0.38085800000000014
+    },
+    "naive": {
+      "correct": 107,
+      "total": 200,
+      "cost": 0.5571839999999999
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "17": {
+    "modern_rag": {
+      "correct": 98,
+      "total": 200,
+      "cost": 0.24410799999999994
+    },
+    "rag": {
+      "correct": 133,
+      "total": 200,
+      "cost": 0.3472189999999999
+    },
+    "vector": {
+      "correct": 130,
+      "total": 200,
+      "cost": 0.38551800000000014
+    },
+    "naive": {
+      "correct": 118,
+      "total": 200,
+      "cost": 0.5508410000000001
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "18": {
+    "modern_rag": {
+      "correct": 93,
+      "total": 200,
+      "cost": 0.24371499999999988
+    },
+    "rag": {
+      "correct": 126,
+      "total": 200,
+      "cost": 0.34109699999999993
+    },
+    "vector": {
+      "correct": 132,
+      "total": 200,
+      "cost": 0.3888679999999999
+    },
+    "naive": {
+      "correct": 91,
+      "total": 200,
+      "cost": 0.5567570000000003
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  },
+  "19": {
+    "modern_rag": {
+      "correct": 93,
+      "total": 200,
+      "cost": 0.24222499999999988
+    },
+    "rag": {
+      "correct": 121,
+      "total": 200,
+      "cost": 0.342242
+    },
+    "vector": {
+      "correct": 129,
+      "total": 200,
+      "cost": 0.38479100000000005
+    },
+    "naive": {
+      "correct": 103,
+      "total": 200,
+      "cost": 0.5506240000000006
+    },
+    "engram": {
+      "correct": 0,
+      "total": 0,
+      "cost": 0.0
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "run_id": "v13-final-matrix-20260314",
+  "model_version": "v13",
+  "datasets": {
+    "real20_200s_seed700": {
+      "engram": {
+        "accuracy": 0.98825,
+        "correct": 3953,
+        "total": 4000,
+        "cost_total": 9.098,
+        "cost_per_correct": 0.002302
+      },
+      "modern_rag": {
+        "accuracy": 0.4695,
+        "correct": 1878,
+        "total": 4000,
+        "cost_total": 4.838,
+        "cost_per_correct": 0.00257633280085197
+      },
+      "rag": {
+        "accuracy": 0.64875,
+        "correct": 2595,
+        "total": 4000,
+        "cost_total": 6.832,
+        "cost_per_correct": 0.0026326836223506743
+      },
+      "vector": {
+        "accuracy": 0.6515,
+        "correct": 2606,
+        "total": 4000,
+        "cost_total": 7.651,
+        "cost_per_correct": 0.002935905218726017
+      },
+      "naive": {
+        "accuracy": 0.546,
+        "correct": 2184,
+        "total": 4000,
+        "cost_total": 10.904,
+        "cost_per_correct": 0.004992730769230769
+      },
+      "by_tier": {
+        "engram": {
+          "easy": 1.0,
+          "medium": 0.96167,
+          "hard": 1.0,
+          "extreme": 0.99875
+        }
+      },
+      "contradiction": {
+        "engram": {
+          "accuracy": 0.9995,
+          "correct": 2010,
+          "total": 2011
+        }
+      }
+    },
+    "ruler_32k_2000q": {
+      "engram": {
+        "accuracy": 0.9015,
+        "correct": 1803,
+        "total": 2000,
+        "cost_total": 2.68481,
+        "cost_per_correct": 0.001489079312257349
+      },
+      "modern_rag": {
+        "accuracy": 0.824,
+        "correct": 1648,
+        "total": 2000,
+        "cost_total": 1.984273,
+        "cost_per_correct": 0.001204
+      },
+      "rag": {
+        "accuracy": 0.7605,
+        "correct": 1521,
+        "total": 2000,
+        "cost_total": 1.988128,
+        "cost_per_correct": 0.001307
+      },
+      "vector": {
+        "accuracy": 0.7645,
+        "correct": 1529,
+        "total": 2000,
+        "cost_total": 2.284581,
+        "cost_per_correct": 0.001494
+      },
+      "naive": {
+        "accuracy": 0.55,
+        "correct": 1100,
+        "total": 2000,
+        "cost_total": 3.153351,
+        "cost_per_correct": 0.002867
+      },
+      "by_type": {
+        "engram": {
+          "3-hop": 0.90125,
+          "4-hop": 0.85875,
+          "5-hop": 0.9875
+        }
+      }
+    },
+    "babilong_4k_100q": {
+      "engram": {
+        "accuracy": 0.86,
+        "correct": 86,
+        "total": 100
+      },
+      "modern_rag": {
+        "accuracy": 0.47,
+        "correct": 47,
+        "total": 100
+      },
+      "rag": {
+        "accuracy": 0.46,
+        "correct": 46,
+        "total": 100
+      },
+      "vector": {
+        "accuracy": 0.47,
+        "correct": 47,
+        "total": 100
+      },
+      "naive": {
+        "accuracy": 0.58,
+        "correct": 58,
+        "total": 100
+      },
+      "by_task": {
+        "engram": {
+          "qa1": 0.95,
+          "qa2": 0.8,
+          "qa3": 0.8,
+          "qa4": 0.8,
+          "qa5": 0.95
+        }
+      }
+    }
+  },
+  "deltas_vs_engram": {
+    "real20_200s_seed700": {
+      "modern_rag": 0.51875,
+      "rag": 0.3394999999999999,
+      "vector": 0.33675,
+      "naive": 0.4422499999999999
+    },
+    "ruler_32k_2000q": {
+      "modern_rag": 0.07750000000000001,
+      "rag": 0.14100000000000001,
+      "vector": 0.137,
+      "naive": 0.3514999999999999
+    },
+    "babilong_4k_100q": {
+      "modern_rag": 0.39,
+      "rag": 0.39999999999999997,
+      "vector": 0.39,
+      "naive": 0.28
+    }
+  },
+  "notes": [
+    "All numbers from post-patch v13 runs only",
+    "No mixed-era metrics",
+    "Same-slice comparisons only"
+  ]
+}

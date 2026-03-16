@@ -56,3 +56,6 @@ The 19 misses are exclusively numeric computation, indicating a model arithmetic
 
 
 Disclosure: This package uses Letta benchmark data with a custom ENGRAM harness/tool wrappers, not Letta native runtime.
+
+Additional ENGRAM v13 technical artifacts (public):
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/tree/main/engram-v13-technical

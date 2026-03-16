@@ -37,3 +37,7 @@ Core Memory Read and Core Memory Update results here are benchmark runs from the
 - https://docs.letta.com/leaderboard
 - https://www.letta.com/blog/letta-leaderboard
 - https://github.com/letta-ai/letta-leaderboard
+
+
+Additional ENGRAM v13 technical artifacts (public):
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/tree/main/engram-v13-technical

@@ -24,3 +24,7 @@ Run the same harness with a stronger arithmetic model and keep retrieval stack c
 - https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAMAI-core-memory-read-results.json
 - https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAMAI-core-memory-update-results.json
 - https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAMAI-filesystem-zed-81of100-proof.jsonl
+
+
+Additional ENGRAM v13 technical artifacts (public):
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/tree/main/engram-v13-technical
