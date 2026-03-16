@@ -28,9 +28,9 @@ Core Memory Read and Core Memory Update results here are benchmark runs from the
 
 ## Evidence links
 - https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/README.md
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-ENGRAMAI-core-memory-read-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-ENGRAMAI-core-memory-update-results.json
-- https://github.com/urbankayaks/silas-workspace/blob/main/public/letta-three-tests-evidence/ENGRAMAI-ENGRAMAI-filesystem-zed-81of100-proof.jsonl
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAMAI-core-memory-read-results.json
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAMAI-core-memory-update-results.json
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAMAI-filesystem-zed-81of100-proof.jsonl
 
 ## Citations
 - https://leaderboard.letta.com/
