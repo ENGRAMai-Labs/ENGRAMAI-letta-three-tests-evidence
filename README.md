@@ -59,3 +59,8 @@ Disclosure: This package uses Letta benchmark data with a custom ENGRAM harness/
 
 Additional ENGRAM v13 technical artifacts (public):
 - https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/tree/main/engram-v13-technical
+
+
+Canonical report:
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAM_MASTER_Public_Technical_Report.md
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAM_MASTER_Public_Technical_Report.pdf

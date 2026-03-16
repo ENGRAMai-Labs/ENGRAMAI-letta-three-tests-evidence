@@ -28,3 +28,8 @@ Run the same harness with a stronger arithmetic model and keep retrieval stack c
 
 Additional ENGRAM v13 technical artifacts (public):
 - https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/tree/main/engram-v13-technical
+
+
+Canonical report:
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAM_MASTER_Public_Technical_Report.md
+- https://github.com/ENGRAMai-Labs/ENGRAMAI-letta-three-tests-evidence/blob/main/ENGRAM_MASTER_Public_Technical_Report.pdf
